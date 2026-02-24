@@ -137,3 +137,7 @@ Payroll does not fully explain team performance (injuries, player development, r
 This project shows association, not causation.
 
 The 2020 season was shortened, so Win % was used instead of raw wins for cross-season comparison.
+Author
+
+Steven Boaventura
+Mini Data Analysis Project (Excel + Power Quer
